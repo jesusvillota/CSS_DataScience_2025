@@ -23,11 +23,15 @@ TBD
 
 - Session 1 (2h)
   - Intro to Python (1h)
-  - Scraping + predicting professions (1h)
+  - Intro to Scraping (1h)
 - Session 2 (2h)
-  - RAG with LangChain: chat with your data
+  - Agentic Scraping of Central Bank Speeches (30')
+  - Forecasting Professions using CNNs with Images (30')
+  - RAG with LangChain: chat with your data (1h)
 - Session 3 (2h)
-  - LLMs: research applications and recent developments
+  - Embeddings (40')
+  - Build your own LLM (40')
+  - Function Calling with LLMs (40')
 
 ## How to use these notebooks
 
