@@ -33,20 +33,20 @@ TBD
 
 ### Option A: Run on Google Colab (recommended)
 
-- Open Google Colab → File → Open notebook → GitHub tab → search for this repository (jesusvillota/CSS_DataScience_2025) and select a notebook under Session1/Session2.
+- Download notebooks from either the CSS Moodle webpage or from my GitHub repository. Then, upload them  to your Google Drive and open them with Google Colab (integrated inside Google Drive).
 
-- Open notebooks from my GitHub and click "Open in Colab", then, save it to your Google Drive account.
+- Open notebooks from my GitHub and click "Open in Colab", then, save them to your Google Drive account.
 
-### Option B: Run locally (optional)
+### Option B: Run locally (more advanced)
 
-- Requirements: Python 3.10+ and packages: requests, beautifulsoup4, pandas, jupyter
+- Requirements: Python 3.10+ and packages: `requests`, `beautifulsoup4`, `pandas`, `jupyter`, `numpy`
 - Create and activate a virtual environment, then install dependencies:
 
 ```bash
 python -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
-pip install requests beautifulsoup4 pandas jupyter
+pip install requests beautifulsoup4 pandas jupyter numpy
 jupyter lab
 ```
 
