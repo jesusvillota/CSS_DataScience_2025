@@ -2,3 +2,5 @@
 # Ignore Session2 and Session3 folders
 Session2/cemfi_faculty_images/
 Session3/
+
+.env
