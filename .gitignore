@@ -1,6 +1,7 @@
 /.DS_Store
 # Ignore Session2 and Session3 folders
 Session2/cemfi_faculty_images/
+Session2/docs/youtube
 Session3/
 
 .env
