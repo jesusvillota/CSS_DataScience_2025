@@ -22,17 +22,17 @@ TBD
 ## Session plan
 
 - Session 1 (2h)
-  1.1) Intro to Python (1h)
-  1.2) Intro to Scraping (1h)
+  - 1.1) Intro to Python (1h)
+  - 1.2) Intro to Scraping (1h)
 - Session 2 (2h)
-  2.1) Forecasting Professions with image recognition using CNNs (30')
-  2.2) Automated Scraping of BIS Central Bank Speeches (30')
-  2.3) RAG with LangChain (I): document loading (30')
-  2.4) RAG with LangChain (II): document splitting (30')
+  - 2.1) Forecasting Professions with image recognition using CNNs (30')
+  - 2.2) Automated Scraping of BIS Central Bank Speeches (30')
+  - 2.3) RAG with LangChain (I): document loading (30')
+  - 2.4) RAG with LangChain (II): document splitting (30')
 - Session 3 (2h)
-  3.1) RAG with LangChain (III): vectorstores and embeddings (30')
-  3.2) RAG with LangChain (IV): retrieval and LLM interaction (30')
-  3.4) LLMs: function calling (1h)
+  - 3.1) RAG with LangChain (III): vectorstores and embeddings (30')
+  - 3.2) RAG with LangChain (IV): retrieval and LLM interaction (30')
+  - 3.4) LLMs: function calling (1h)
 
 
 Time allocated by topic:
