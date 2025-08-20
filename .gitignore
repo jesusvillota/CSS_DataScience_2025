@@ -1,7 +1,25 @@
-/.DS_Store
-# Ignore Session2 and Session3 folders
-Session2/cemfi_faculty_images/
-Session2/docs/youtube
+# macOS system files
+.DS_Store
+
+# Environment files
+.env
+
+# Specific files
+Session2/output/
+Session2/docs/
 Session3/
 
-.env
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python-related files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
