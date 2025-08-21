@@ -8,6 +8,8 @@
 Session2/output/
 Session2/docs/
 Session3/speeches
+Session3/chroma_db
+OLD/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
