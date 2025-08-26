@@ -1,0 +1,36 @@
+[project]
+name = "css-datascience-2025"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "jesusvillota",email = "jesus.villota@cemfi.edu.es"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests",
+    "beautifulsoup4",
+    "pandas",
+    "numpy",
+    "jupyter",
+    "matplotlib",
+    "seaborn",
+    "scikit-learn",
+    "tensorflow",
+    "pillow",
+    "selenium",
+    "PyPDF2",
+    "langchain",
+    "langchain-community",
+    "langchain-huggingface",
+    "pypdf",
+    "bertviz",
+    "pydantic",
+    "python-dotenv"
+]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+[tool.poetry]
+package-mode = false

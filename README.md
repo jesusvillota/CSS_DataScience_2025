@@ -1,6 +1,7 @@
-# CEMFI Summer School 2025 — Data Science for Economics: Mastering Unstructured Data (Practicals)
 
-Practical sessions for the course “Data Science for Economics: Mastering Unstructured Data,” taught at CEMFI Summer School 2025.
+# CEMFI Summer School 2025 — Using Textual Data in Empirical Monetary Economics (Practicals)
+
+Practical sessions for the course “Using Textual Data in Empirical Monetary Economics,” taught at CEMFI Summer School 2025.
 
 ## Schedule and location
 
