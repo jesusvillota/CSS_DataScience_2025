@@ -32,7 +32,7 @@ Session3/
   3_2_RAG_IV_Full_Pipeline.ipynb
   3_3_LLM_I_Intro.ipynb
   3_4_LLM_II_Function_Calling.ipynb
-  3_5_LLM_Download_(Extra).ipynb.ipynb
+  3_5_LLM_Download_(Extra).ipynb
 ```
 
 ## Session plan
