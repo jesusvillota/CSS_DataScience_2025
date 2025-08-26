@@ -23,11 +23,10 @@ Session1/
   1_1_Introduction.ipynb
   1_2_Scraping.ipynb
 Session2/
-  2_1_Forecasting_Professions.ipynb
-  2_2_BIS_Scraper_I.ipynb
-  2_2_BIS_Scraper_II.ipynb
-  2_3_RAG_I_Document_Loading.ipynb
-  2_4_RAG_II_Document_Splitting.ipynb
+  2_1_BIS_Scraper_I.ipynb
+  2_1_BIS_Scraper_II.ipynb
+  2_2_RAG_I_Document_Loading.ipynb
+  2_3_RAG_II_Document_Splitting.ipynb
 Session3/
   3_1_RAG_III_Vectorstores_And_Embeddings.ipynb
   3_2_RAG_IV_Full_Pipeline.ipynb
