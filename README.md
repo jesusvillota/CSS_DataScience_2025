@@ -40,26 +40,22 @@ Session3/
 
 
 ### Session 1
-- **1_1_Introduction.ipynb**: Intro to Python (1h)
-- **1_2_Scraping.ipynb**: Intro to Scraping (1h)
+- **1_1_Introduction.ipynb**: Intro to Python
+- **1_2_Scraping.ipynb**: Intro to Scraping
 
 ### Session 2
-- **2_1_Forecasting_Professions.ipynb**: Forecasting Professions with image recognition using CNNs (30')
-- **2_2_BIS_Scraper_I.ipynb**: Automated Scraping of BIS Central Bank Speeches (30')
-- **2_3_RAG_I_Document_Loading.ipynb**: RAG with LangChain (I): document loading (30')
-- **2_4_RAG_II_Document_Splitting.ipynb**: RAG with LangChain (II): document splitting (30')
+- **2_1_Forecasting_Professions.ipynb**: Forecasting Professions with image recognition using CNNs
+- **2_2_BIS_Scraper_I.ipynb**: Automated Scraping of BIS Central Bank Speeches
+- **2_3_RAG_I_Document_Loading.ipynb**: RAG with LangChain (I): document loading
+- **2_4_RAG_II_Document_Splitting.ipynb**: RAG with LangChain (II): document splitting
 
 ### Session 3
-- **3_1_RAG_III_Vectorstores_And_Embeddings.ipynb**: RAG with LangChain (III): vectorstores and embeddings (30')
-- **3_2_RAG_IV_Full_Pipeline.ipynb**: RAG with LangChain (IV): retrieval and LLM interaction (30')
+- **3_1_RAG_III_Vectorstores_And_Embeddings.ipynb**: RAG with LangChain (III): vectorstores and embeddings
+- **3_2_RAG_IV_Full_Pipeline.ipynb**: RAG with LangChain (IV): retrieval and LLM interaction
 - **3_3_LLM_I_Intro.ipynb**: LLMs: introduction
-- **3_4_LLM_II_Function_Calling.ipynb**: LLMs: function calling (1h)
+- **3_4_LLM_II_Function_Calling.ipynb**: LLMs: function calling
 - **3_5_LLM_Download_(Extra).ipynb.ipynb**: LLM download (extra)
 
-**Time allocated by topic:**
-- Introduction (1h)
-- Scraping (2h)
-- RAG and LLMs (3h)
 
 ## How to use these notebooks
 
