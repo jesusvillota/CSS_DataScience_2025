@@ -5,8 +5,8 @@ Practical sessions for the course “Using Textual Data in Empirical Monetary Ec
 
 ## Schedule and location
 
-- Practical sessions (with Jesus): Monday 18, Wednesday 20, Thursday 21 August 2025, 15:00–17:00, Room M3 (CEMFI)
-- Theory sessions (with Chris): Every day, 9:30–13:00, Room M3 (CEMFI)
+- Practical sessions (with Jesus): Wednesday 27, Thursday 28, Friday 29 August 2025, 11:00–13:00, Room M1 (CEMFI)
+- Theory sessions (with Michael): Every day, 15:00–18:30, Room M2 (CEMFI)
 
 Please bring your laptop to class.
 
@@ -18,25 +18,45 @@ Please bring your laptop to class.
 
 ## Repository structure
 
-TBD
+```
+Session1/
+  1_1_Introduction.ipynb
+  1_2_Scraping.ipynb
+Session2/
+  2_1_Forecasting_Professions.ipynb
+  2_2_BIS_Scraper_I.ipynb
+  2_2_BIS_Scraper_II.ipynb
+  2_3_RAG_I_Document_Loading.ipynb
+  2_4_RAG_II_Document_Splitting.ipynb
+Session3/
+  3_1_RAG_III_Vectorstores_And_Embeddings.ipynb
+  3_2_RAG_IV_Full_Pipeline.ipynb
+  3_3_LLM_I_Intro.ipynb
+  3_4_LLM_II_Function_Calling.ipynb
+  3_5_LLM_Download_(Extra).ipynb.ipynb
+```
 
 ## Session plan
 
-- Session 1 (2h)
-  - 1.1) Intro to Python (1h)
-  - 1.2) Intro to Scraping (1h)
-- Session 2 (2h)
-  - 2.1) Forecasting Professions with image recognition using CNNs (30')
-  - 2.2) Automated Scraping of BIS Central Bank Speeches (30')
-  - 2.3) RAG with LangChain (I): document loading (30')
-  - 2.4) RAG with LangChain (II): document splitting (30')
-- Session 3 (2h)
-  - 3.1) RAG with LangChain (III): vectorstores and embeddings (30')
-  - 3.2) RAG with LangChain (IV): retrieval and LLM interaction (30')
-  - 3.4) LLMs: function calling (1h)
 
+### Session 1
+- **1_1_Introduction.ipynb**: Intro to Python (1h)
+- **1_2_Scraping.ipynb**: Intro to Scraping (1h)
 
-Time allocated by topic:
+### Session 2
+- **2_1_Forecasting_Professions.ipynb**: Forecasting Professions with image recognition using CNNs (30')
+- **2_2_BIS_Scraper_I.ipynb**: Automated Scraping of BIS Central Bank Speeches (30')
+- **2_3_RAG_I_Document_Loading.ipynb**: RAG with LangChain (I): document loading (30')
+- **2_4_RAG_II_Document_Splitting.ipynb**: RAG with LangChain (II): document splitting (30')
+
+### Session 3
+- **3_1_RAG_III_Vectorstores_And_Embeddings.ipynb**: RAG with LangChain (III): vectorstores and embeddings (30')
+- **3_2_RAG_IV_Full_Pipeline.ipynb**: RAG with LangChain (IV): retrieval and LLM interaction (30')
+- **3_3_LLM_I_Intro.ipynb**: LLMs: introduction
+- **3_4_LLM_II_Function_Calling.ipynb**: LLMs: function calling (1h)
+- **3_5_LLM_Download_(Extra).ipynb.ipynb**: LLM download (extra)
+
+**Time allocated by topic:**
 - Introduction (1h)
 - Scraping (2h)
 - RAG and LLMs (3h)
