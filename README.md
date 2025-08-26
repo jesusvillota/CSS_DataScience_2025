@@ -43,8 +43,8 @@ Session3/
 - **1_2_Scraping.ipynb**: Intro to Scraping
 
 ### Session 2
-- **2_1_Forecasting_Professions.ipynb**: Forecasting Professions with image recognition using CNNs
-- **2_2_BIS_Scraper_I.ipynb**: Automated Scraping of BIS Central Bank Speeches
+- **2_2_BIS_Scraper_I.ipynb**: Automated Scraping of BIS Central Bank Speeches: intro
+- **2_2_BIS_Scraper_II.ipynb**: Automated Scraping of BIS Central Bank Speeches: production
 - **2_3_RAG_I_Document_Loading.ipynb**: RAG with LangChain (I): document loading
 - **2_4_RAG_II_Document_Splitting.ipynb**: RAG with LangChain (II): document splitting
 
