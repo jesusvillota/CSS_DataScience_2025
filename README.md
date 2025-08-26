@@ -61,21 +61,27 @@ Session3/
 
 ### Option A: Run on Google Colab (recommended)
 
-- Download notebooks from either the CSS Moodle webpage or from my GitHub repository. Then, upload them  to your Google Drive and open them with Google Colab (integrated inside Google Drive).
+- Option A.1 (Recommended) Open notebooks from my GitHub and click "Open in Colab", then, save them to your Google Drive account.
 
-- Open notebooks from my GitHub and click "Open in Colab", then, save them to your Google Drive account.
+- Option A.2 Download notebooks from either the CSS Moodle webpage or from my GitHub repository. Then, upload them  to your Google Drive and open them with Google Colab (integrated inside Google Drive).
 
 ### Option B: Run locally (more advanced)
 
-- Requirements: Python 3.10+ and packages: `requests`, `beautifulsoup4`, `pandas`, `jupyter`, `numpy`
-- Create and activate a virtual environment, then install dependencies:
+Use [Poetry](https://python-poetry.org/) for dependency management.
+
+Requirements: Python 3.13+ (see `pyproject.toml`)
+
+Setup steps:
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install --upgrade pip
-pip install requests beautifulsoup4 pandas jupyter numpy
-jupyter lab
+# Install Poetry if you don't have it
+curl -sSL https://install.python-poetry.org | python3 -
+
+# Install dependencies (creates and manages the virtual environment automatically)
+poetry install
+
+# Activate the Poetry shell
+poetry shell
 ```
 
 Open the desired notebook from the Session folders.
