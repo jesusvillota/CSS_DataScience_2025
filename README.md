@@ -43,10 +43,10 @@ Session3/
 - **1_2_Scraping.ipynb**: Intro to Scraping
 
 ### Session 2
-- **2_2_BIS_Scraper_I.ipynb**: Automated Scraping of BIS Central Bank Speeches: intro
-- **2_2_BIS_Scraper_II.ipynb**: Automated Scraping of BIS Central Bank Speeches: production
-- **2_3_RAG_I_Document_Loading.ipynb**: RAG with LangChain (I): document loading
-- **2_4_RAG_II_Document_Splitting.ipynb**: RAG with LangChain (II): document splitting
+- **2_1_BIS_Scraper_I.ipynb**: Automated Scraping of BIS Central Bank Speeches: intro
+- **2_1_BIS_Scraper_II.ipynb**: Automated Scraping of BIS Central Bank Speeches: production
+- **2_2_RAG_I_Document_Loading.ipynb**: RAG with LangChain (I): document loading
+- **2_3_RAG_II_Document_Splitting.ipynb**: RAG with LangChain (II): document splitting
 
 ### Session 3
 - **3_1_RAG_III_Vectorstores_And_Embeddings.ipynb**: RAG with LangChain (III): vectorstores and embeddings
