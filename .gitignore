@@ -6,9 +6,8 @@
 .env
 
 # Specific files
-Session1/CEMFI_Faculty
+output/
 Session2/2_1_Forecasting_Professions.ipynb
-Session2/output/
 Session2/docs/
 Session3/speeches
 Session3/chroma_db
