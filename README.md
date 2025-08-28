@@ -68,7 +68,7 @@ Session3/
 
 Use [Poetry](https://python-poetry.org/) for dependency management.
 
-Requirements: Python 3.13+ (see `pyproject.toml`)
+Requirements: Python 3.11+ (see `pyproject.toml`)
 
 Setup steps:
 
