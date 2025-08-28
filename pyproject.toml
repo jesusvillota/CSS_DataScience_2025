@@ -26,7 +26,11 @@ dependencies = [
     "pypdf",
     "bertviz",
     "pydantic",
-    "python-dotenv"
+    "python-dotenv",
+    "yt-dlp (>=2025.8.27,<2026.0.0)",
+    "faster-whisper (>=1.2.0,<2.0.0)",
+    "pydub (>=0.25.1,<0.26.0)",
+    "tiktoken (>=0.11.0,<0.12.0)"
 ]
 
 [build-system]
